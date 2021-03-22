@@ -1,0 +1,44 @@
+.brand-logo img {
+	margin-top: 7px;
+}
+
+
+.parallax-container {
+	height: 300px
+
+}
+
+.parallax img {
+	opacity: 0.5 !important;
+
+}
+
+.container .col .img {
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+
+
+.container .col .about li {
+	list-style-type: disc;
+	margin-left: 230px;
+}
+
+.row .col ul li {
+	list-style-type: disc;
+}
+
+section, footer {
+	padding: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
